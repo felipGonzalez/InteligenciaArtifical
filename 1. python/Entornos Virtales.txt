@@ -1,0 +1,16 @@
+pip install virtualenv
+virtualenv virtualenv
+inicializar --->   lunux source venv/bin/activate
+                    windows venv\scripts\activate.bat
+deactivate
+
+pip flask nos trae 
+click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+
+pip install -r requirements.txt 
+
